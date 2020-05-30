@@ -30,8 +30,7 @@
    ```
 
    在终端打开code/gec6818这个文件夹
-
-   ![image-20200524105113310](C:\Users\13481\AppData\Roaming\Typora\typora-user-images\image-20200524105113310.png)
+   ![image](https://github.com/WRating/Project-keda/images/image-20200524105113310.png) 
 
    ```
    gcc voicectl.c common.c -o voicectl -I./inc -L /usr/lib/x86_64-linux-gnu -lxml2
