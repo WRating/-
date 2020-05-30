@@ -30,7 +30,7 @@
    ```
 
    在终端打开code/gec6818这个文件夹
-   ![image](https://github.com/WRating/Project-keda/images/image-20200524105113310.png) 
+   ![image](https://github.com/WRating/Project-keda/blob/master/images/image-20200524105113310.png) 
 
    ```
    gcc voicectl.c common.c -o voicectl -I./inc -L /usr/lib/x86_64-linux-gnu -lxml2
@@ -68,14 +68,13 @@
 通过看命令行上面的提示查看是否录音成功，成功即会返回相应id中的信息
 
 ### 二. 执行服务端asr_record_demo 文件（服务端）
-
-![image-20200524093424677](C:\Users\13481\AppData\Roaming\Typora\typora-user-images\image-20200524093424677.png)
+![image](https://github.com/WRating/Project-keda/blob/master/images/image-20200524093424677.png) 
 
 服务器程序：也是运行在Ubuntu上
 
 在Ubuntu上找到科大语言识别这个文件夹的位置：
 
-![image-20200524100451700](C:\Users\13481\AppData\Roaming\Typora\typora-user-images\image-20200524100451700.png)
+![image](https://github.com/WRating/Project-keda/blob/master/images/image-20200524100451700.png) 
 
 问题分析：有这个库才能在64位的系统上执行32位的程序，所以根据你的系统，把这个库安装上即可。所使用的命令是：
 
@@ -89,9 +88,7 @@ sudo apt install libc6:i386
 ```
 sudo ./asr_record_demo 
 ```
-
-![image-20200524100706846](C:\Users\13481\AppData\Roaming\Typora\typora-user-images\image-20200524100706846.png)
-
+![image](https://github.com/WRating/Project-keda/blob/master/images/image-20200524100706846.png) 
 构建语法失败
 
 问题分析：因为该语音识别库只是一个演示版本，只有一个月的适用期（2016-10），所以要将系统时间调至该试用期间（注意：联网状态时间又会回到当前，所以最好是把所有需要联网的步骤都写完之后再关闭网络来做这一步）
@@ -104,7 +101,7 @@ sudo ./asr_record_demo
 
 出现以下界面说明成功
 
-![image-20200524105843257](C:\Users\13481\AppData\Roaming\Typora\typora-user-images\image-20200524105843257.png)
+![image](https://github.com/WRating/Project-keda/blob/master/images/image-20200524105843257.png) 
 
 
 
@@ -166,7 +163,7 @@ sudo ./asr_record_demo
 
 1. ##### voicectl.c文件里：
 
-   ![image-20200524164449767](C:\Users\13481\AppData\Roaming\Typora\typora-user-images\image-20200524164449767.png)
+   ![image](https://github.com/WRating/Project-keda/blob/master/images/image-20200524164449767.png) 
 
    argc 是运行程序的，参数的个数。 
 
@@ -187,10 +184,8 @@ sudo ./asr_record_demo
 2. ##### mian函数里面的init_sock函数：
 
    功能：初始化了服务器的网络地址；连接了服务器
-
-   ![image-20200524164336194](C:\Users\13481\AppData\Roaming\Typora\typora-user-images\image-20200524164336194.png)
-
    
+   ![image](https://github.com/WRating/Project-keda/blob/master/images/image-20200524164336194.png)
 
 3. ##### // arecord 程序，录音---->生成一个文件  cmd.pcm
 
@@ -286,7 +281,7 @@ class Cat : public animal{
 
 1. 新建一个QT Widgets Application文件，选择好储存文件的路径
 
-![image-20200529153913322](C:\Users\13481\AppData\Roaming\Typora\typora-user-images\image-20200529153913322.png)
+![image](https://github.com/WRating/Project-keda/blob/master/images/image-20200529153913322.png) 
 
 2. 选择自己创建页面所需要的基类（这里我们选择QWidget）：
 
@@ -297,8 +292,9 @@ class Cat : public animal{
    QWidget：普通界面
 
    QDialog：对话框界面
+   
+   ![image](https://github.com/WRating/Project-keda/blob/master/images/image-20200529155054411.png) 
 
-   ![image-20200529155054411](C:\Users\13481\AppData\Roaming\Typora\typora-user-images\image-20200529155054411.png)
 
 3. 创建的工程一般包含以下几个文件：
 
@@ -322,11 +318,12 @@ class Cat : public animal{
 
 菜单栏->帮助->索引
 
-![image-20200529165159157](C:\Users\13481\AppData\Roaming\Typora\typora-user-images\image-20200529165159157.png)
+![image](https://github.com/WRating/Project-keda/blob/master/images/image-20200529165159157.png) 
 
 输入要查看的类名称
 
-![image-20200529165236784](C:\Users\13481\AppData\Roaming\Typora\typora-user-images\image-20200529165236784.png)
+![image](https://github.com/WRating/Project-keda/blob/master/images/image-20200529165236784.png) 
+
 
 qDebug:在控制台打印输出相应消息
 
