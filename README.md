@@ -352,3 +352,33 @@ linux下QT编译出现collect2:ld returned 1 exit status错误
 sudo apt install libgl1-mesa-dev
 重启QT
 ```
+## 第五天：
+
+在QT上编写smart-home界面及功能
+
+### 问题：
+
+客户端服务端唤醒并执行成功，但是QT上报错：
+
+```
+QObject::connect: No such signal QUdpSocket::readyread() in ../smart-home/mainwindow.cpp:16
+QObject::connect:  (receiver name: 'MainWindow')
+```
+
+解决：方法名大小写错误：改成readyRead()即可
+
+## 第六天：
+
+1. 开关网络问题，解决步骤：
+
+```
+1. 系统显示时间为当前时间（若不是，则在设置中修改当前时间）
+2. 运行QT写好的代码
+3. 打开终端，在code/gec6818目录下生成voicectl文件，再执行make命令
+4. 关闭网络，再打开一个终端（服务端），进入code/x86/bin目录，修改当前时间，执行asr_record_demo文件
+5. 在之前打开的终端（客户端）执行sudo ./voicectl 127.0.0.1
+```
+
+2. 在QT中添加窗户和灯的开关操作
+
+   直接在之前开门的代码下面添加if语句即可，更改图片的对应方法也要加上，记得与每个laber对应
