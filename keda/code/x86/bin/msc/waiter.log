@@ -1,0 +1,63 @@
+============================================================
+Time  2016/10/01 00:08:28 270 
+============================================================
+[2016/10/01 00:08:28 273] waiter     120  waiter loaded!  
+[2016/10/01 00:08:28 369] network    380  redns  def  open.xf-yun.com  
+[2016/10/01 00:08:28 403] waiter     196  last gc at  1475251708  
+[2016/10/01 00:08:28 652] network    173  dns resp  10214  
+[2016/10/01 00:08:28 655] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/01 00:08:29 384] network    380  redns  def  open.xf-yun.com  
+[2016/10/01 00:08:29 388] waiter     196  last gc at  1475251708  
+[2016/10/01 00:08:29 437] network    173  dns resp  10214  
+[2016/10/01 00:08:29 441] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/01 00:08:29 495] waiter     183  start upload timer  
+[2016/10/01 00:08:29 497] waiter     184  false  
+[2016/10/01 00:08:29 500] waiter     196  last gc at  1475251708  
+[2016/10/01 00:08:30 218] network    380  redns  def  open.xf-yun.com  
+[2016/10/01 00:08:30 223] waiter     196  last gc at  1475251708  
+[2016/10/01 00:08:30 274] network    173  dns resp  10214  
+[2016/10/01 00:08:30 276] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/01 00:08:30 897] network    380  redns  def  open.xf-yun.com  
+[2016/10/01 00:08:30 915] waiter     196  last gc at  1475251708  
+[2016/10/01 00:08:30 939] network    173  dns resp  10214  
+[2016/10/01 00:08:30 944] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/01 00:08:31 363] network    380  redns  def  open.xf-yun.com  
+[2016/10/01 00:08:31 367] waiter     196  last gc at  1475251708  
+[2016/10/01 00:08:31 389] network    173  dns resp  10214  
+[2016/10/01 00:08:31 393] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/01 00:08:34 581] network    380  redns  def  open.xf-yun.com  
+[2016/10/01 00:08:34 648] waiter     196  last gc at  1475251708  
+[2016/10/01 00:08:34 776] network    173  dns resp  10214  
+[2016/10/01 00:08:34 815] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/01 00:08:35 580] network    380  redns  def  open.xf-yun.com  
+[2016/10/01 00:08:35 582] waiter     196  last gc at  1475251708  
+[2016/10/01 00:08:35 617] network    173  dns resp  10214  
+[2016/10/01 00:08:35 620] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/01 00:08:36 480] waiter     183  start upload timer  
+[2016/10/01 00:08:36 490] waiter     184  true  
+[2016/10/01 00:08:36 549] network    380  redns  def  open.xf-yun.com  
+[2016/10/01 00:08:36 555] waiter     196  last gc at  1475251708  
+[2016/10/01 00:08:36 582] network    173  dns resp  10214  
+[2016/10/01 00:08:36 584] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/01 00:08:41 331] network    380  redns  def  open.xf-yun.com  
+[2016/10/01 00:08:41 345] waiter     196  last gc at  1475251708  
+[2016/10/01 00:08:41 365] network    173  dns resp  10214  
+[2016/10/01 00:08:41 380] network    397  redns dns resp  nil  10214  nil  nil  
+[2016/10/01 00:08:43 924] waiter     183  start upload timer  
+[2016/10/01 00:08:43 936] waiter     184  true  
+[2016/10/01 00:08:49 931] waiter     183  start upload timer  
+[2016/10/01 00:08:49 937] waiter     184  true  
+[2016/10/01 00:08:55 626] waiter     183  start upload timer  
+[2016/10/01 00:08:55 631] waiter     184  true  
+[2016/10/01 00:09:01 677] waiter     183  start upload timer  
+[2016/10/01 00:09:01 692] waiter     184  true  
+[2016/10/01 00:09:07 074] waiter     183  start upload timer  
+[2016/10/01 00:09:07 079] waiter     184  true  
+[2016/10/01 00:09:13 356] waiter     183  start upload timer  
+[2016/10/01 00:09:13 362] waiter     184  true  
+[2016/10/01 00:09:19 078] waiter     183  start upload timer  
+[2016/10/01 00:09:19 142] waiter     184  true  
+[2016/10/01 00:09:24 872] waiter     183  start upload timer  
+[2016/10/01 00:09:24 875] waiter     184  true  
+[2016/10/01 00:09:30 459] waiter     183  start upload timer  
+[2016/10/01 00:09:30 462] waiter     184  true  

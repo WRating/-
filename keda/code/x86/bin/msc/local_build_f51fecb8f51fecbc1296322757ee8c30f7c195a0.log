@@ -1,0 +1,31 @@
+============================================================
+Time  2016/10/01 00:00:48 837 
+============================================================
+[2016/10/01 00:00:48 840] isr_local  2145 os_type is:  Linux  
+[2016/10/01 00:00:48 843] isr_local  2154 SYS_MSG_LOAD_LOCAL  
+[2016/10/01 00:00:48 848] isr_local  2183 SYS_MSG_REGCB_LOCAL| param0 =  msp_status_cb  
+[2016/10/01 00:00:48 850] isr_local  2242 last gc at  1475251248  
+[2016/10/01 00:00:48 865] isr_local  2183 SYS_MSG_REGCB_LOCAL| param0 =  build_grm_cb  
+[2016/10/01 00:00:48 866] isr_local  2242 last gc at  1475251248  
+[2016/10/01 00:00:48 880] isr_local  2196 ASR_LOCAL_MSG_BUILD_GRM  
+[2016/10/01 00:00:48 882] isr_local  1838 grm_init | params:  engine_type = local, 		asr_res_path = fo|res/asr/common.jet, sample_rate = 16000, 		grm_build_path = res/asr/GrmBuilld,   
+[2016/10/01 00:00:48 884] isr_local  801  engine_type  :  local  
+[2016/10/01 00:00:48 886] isr_local  801  asr_res_path  :  fo|res/asr/common.jet  
+[2016/10/01 00:00:48 890] isr_local  801  sample_rate  :  16000  
+[2016/10/01 00:00:48 892] isr_local  801  grm_build_path  :  res/asr/GrmBuilld  
+[2016/10/01 00:00:48 901] isr_local  998  file count =   1  
+[2016/10/01 00:00:48 904] isr_local  921  file open type is:   fo  
+[2016/10/01 00:00:48 906] isr_local  954  res/asr/common.jet  0  0  
+[2016/10/01 00:00:48 909] isr_local  1016 speech_plus_setting  0  
+[2016/10/01 00:00:48 911] isr_local  1029 2  nil  res/asr/common.jet  0  0  
+[2016/10/01 00:00:48 920] isr_local  1031 res_ver  2  
+[2016/10/01 00:00:48 921] isr_local  1032 res 5  a67ec4631cc3043e4b7fce4a4b7234d9  
+[2016/10/01 00:00:48 923] isr_local  1033 res_new_old_mark  v5pp  
+[2016/10/01 00:00:48 924] isr_local  1034 res_usr_name    
+[2016/10/01 00:00:48 927] isr_local  1035 res_expires  1485072161  
+[2016/10/01 00:00:48 928] isr_local  1036 err  0  
+[2016/10/01 00:00:48 930] isr_local  1052 lgi appid 5  a67ec4631cc3043e4b7fce4a4b7234d9  
+[2016/10/01 00:00:48 931] isr_local  1067 now expires:  1475251248  1485072161  
+[2016/10/01 00:00:48 978] isr_local  1579 proc_retcode_grm | errorcode =  0  
+[2016/10/01 00:00:49 064] isr_local  1956 grammar id:cmd  
+[2016/10/01 00:00:49 076] isr_local  1571 onGrmLocalServiceCb  0  cmd  

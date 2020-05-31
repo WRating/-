@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>开门</rawtext>
+  <confidence>1</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="2">开门</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>关灯</rawtext>
+  <confidence>5</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>7</confidence>
+    <object>
+      <cmd id="6">关灯</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>关窗</rawtext>
+  <confidence>2</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>3</confidence>
+    <object>
+      <cmd id="4">关窗</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小爱</rawtext>
+  <confidence>91</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>85</confidence>
+    <object>
+      <cmd id="100">小爱</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>不玩了</rawtext>
+  <confidence>3</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>2</confidence>
+    <object>
+      <cmd id="999">不玩了</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>小爱同学</rawtext>
+  <confidence>86</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>84</confidence>
+    <object>
+      <cmd id="100">小爱同学</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>开门</rawtext>
+  <confidence>0</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="2">开门</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>开门</rawtext>
+  <confidence>71</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>70</confidence>
+    <object>
+      <cmd id="2">开门</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>开门</rawtext>
+  <confidence>0</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>0</confidence>
+    <object>
+      <cmd id="2">开门</cmd>
+    </object>
+  </result>
+</nlp>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>关门</rawtext>
+  <confidence>4</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>11</confidence>
+    <object>
+      <cmd id="5">关门</cmd>
+    </object>
+  </result>
+</nlp>
