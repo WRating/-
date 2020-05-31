@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/panda.gif</file>
+        <file>pic/背景.jpg</file>
+        <file>pic/关窗.jpg</file>
+        <file>pic/关灯.jpg</file>
+        <file>pic/关门.jpg</file>
+        <file>pic/开窗.jpg</file>
+        <file>pic/开灯.jpg</file>
+        <file>pic/开门.jpg</file>
+        <file>pic/绿色背景.jpg</file>
+        <file>pic/门关.jpg</file>
+        <file>pic/门开.jpg</file>
+    </qresource>
+</RCC>
