@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?><nlp>
+  <version>1.1</version>
+  <rawtext>退出</rawtext>
+  <confidence>100</confidence>
+  <engine>local</engine>
+  <result>
+    <focus>cmd</focus>
+    <confidence>100</confidence>
+    <object>
+      <cmd id="999">退出</cmd>
+    </object>
+  </result>
+</nlp>
